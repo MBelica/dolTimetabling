@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15e650bc-b671-4ac5-b77b-3fbdf5f2e72c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="256316236">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="504" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="504" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="263" column="39" selection-start-line="263" selection-start-column="39" selection-end-line="263" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Dates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Timetables.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Metrics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-199">
+              <caret line="56" column="46" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/Event.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="955">
+              <caret line="102" column="25" lean-forward="true" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3719#3720#0" expanded="true" />
+                <element signature="e#3775#3776#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/Agency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="168" column="104" selection-start-line="168" selection-start-column="75" selection-end-line="168" selection-end-column="104" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/Agent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="394" column="2" selection-start-line="394" selection-start-column="2" selection-end-line="395" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createIfNecessaryFirstTimetableByYear</find>
+      <find>createIfNecessaryFirstTimetableForYearAndReturn</find>
+      <find>stringToCalendar</find>
+      <find>system.</find>
+      <find>addE</find>
+      <find>computeMultipleMetricsForAgents</find>
+      <find>computeMetricsForAgents</find>
+      <find>addSessions</find>
+      <find>checkSlotForBooking</find>
+      <find>getTimeInMillis</find>
+      <find>timeSlot</find>
+      <find>EventTimestamp</find>
+      <find>timeslotsToNextDDateFromPrevDDate</find>
+      <find>tDDateFromPrevDDate</find>
+      <find>getNumberOfSessions</find>
+      <find>computeMetrics</find>
+      <find>next</find>
+      <find>getSlotsToNextPossibleEventDate</find>
+      <find>checkSlotForBookingcheckSlotForBooking</find>
+      <find>Calendar</find>
+      <find>setSlotsToNextPossibleEventDate</find>
+      <find>calcSlotsToNextPossibleEventDate</find>
+      <find>getCountOfCurrentAppointments</find>
+      <find>detai</find>
+      <find>metric</find>
+      <find>detail</find>
+      <find>addSingleEventMetricsToExport</find>
+      <find>exportMultipleEventMetrics</find>
+      <find>exportAllEventMetrics</find>
+      <find>sumOfFutureAppointments</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/edu/kit/dol/timetabling</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/viewer/test.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/viewer/StartUpTest.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/viewer/CalendarApp.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/viewer/CalendarView.java" />
+        <option value="$PROJECT_DIR$/TestModule.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/viewer/CalendarViewer.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/EventType.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/CalendarViewer.java" />
+        <option value="$PROJECT_DIR$/Utils.java" />
+        <option value="$PROJECT_DIR$/Tools.java" />
+        <option value="$PROJECT_DIR$/ttTools.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/DataStructures.java" />
+        <option value="$PROJECT_DIR$/Main_back.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/Agent_bak.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/EventSlot.java" />
+        <option value="$PROJECT_DIR$/bak/Agent_bak.java" />
+        <option value="$PROJECT_DIR$/metricTools.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/Event.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/Agent.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/Agency.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/Utilities.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/TimeTable.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/structures/EventType.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Common.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Utilities.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Calendar.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/structures/EventSlot.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/CalendarViewer.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Miscellaneous.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/CSVTable.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Commons.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/TimeTablesAsCSV.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/model/TimeTable.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Timetables.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/structures/DataStructures.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/model/base/BaseParser.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Verbose.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Dates.java" />
+        <option value="$PROJECT_DIR$/Parser.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/model/Event.java" />
+        <option value="$PROJECT_DIR$/Main.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Configuration.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Metrics.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/model/Agent.java" />
+        <option value="$PROJECT_DIR$/edu/kit/dol/timetabling/model/Agency.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="214" />
+    <option name="y" value="120" />
+    <option name="width" value="1466" />
+    <option name="height" value="884" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="timetabling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="timetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="exporter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="timetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="timetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolTimetabling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolTimetabling" type="462c0819:PsiDirectoryNode" />
+              <item name="Parser.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563471235921" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.kit.dol.timetabling" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.calendarfx.app.CalendarApp" />
+      <module name="dolTimetabling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.calendarfx.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.kit.dol.timetabling.utilities.CalendarViewer" />
+      <module name="dolTimetabling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bak.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dolTimetabling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CalendarViewer" />
+      <item itemvalue="Application.CalendarApp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CalendarViewer" />
+        <item itemvalue="Application.CalendarApp (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e650bc-b671-4ac5-b77b-3fbdf5f2e72c" name="Default" comment="" />
+      <created>1522159780479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522159780479</updated>
+      <workItem from="1522159784546" duration="260000" />
+      <workItem from="1522186097840" duration="639000" />
+      <workItem from="1522253839257" duration="10250000" />
+      <workItem from="1522283671584" duration="8766000" />
+      <workItem from="1522631648013" duration="380000" />
+      <workItem from="1522838803056" duration="2340000" />
+      <workItem from="1522844698143" duration="383000" />
+      <workItem from="1523110649664" duration="2301000" />
+      <workItem from="1523134894094" duration="563000" />
+      <workItem from="1523658338961" duration="887000" />
+      <workItem from="1523723360903" duration="2583000" />
+      <workItem from="1523886190472" duration="996000" />
+      <workItem from="1523910825006" duration="7260000" />
+      <workItem from="1523957501142" duration="361000" />
+      <workItem from="1523964177718" duration="18804000" />
+      <workItem from="1524073987209" duration="8268000" />
+      <workItem from="1524093241576" duration="1091000" />
+      <workItem from="1524142529722" duration="710000" />
+      <workItem from="1525211932937" duration="3438000" />
+      <workItem from="1525348553163" duration="3325000" />
+      <workItem from="1525730783234" duration="7845000" />
+      <workItem from="1525739161108" duration="3643000" />
+      <workItem from="1525771725477" duration="8616000" />
+      <workItem from="1525877349911" duration="2864000" />
+      <workItem from="1525884818440" duration="1049000" />
+      <workItem from="1526375628669" duration="380000" />
+      <workItem from="1526662414314" duration="4561000" />
+      <workItem from="1526667054937" duration="5249000" />
+      <workItem from="1526769247764" duration="5032000" />
+      <workItem from="1526828599602" duration="20000" />
+      <workItem from="1528101325272" duration="76000" />
+      <workItem from="1528710615835" duration="89000" />
+      <workItem from="1528716197862" duration="8520000" />
+      <workItem from="1528750068600" duration="6327000" />
+      <workItem from="1528808056093" duration="3273000" />
+      <workItem from="1528901125567" duration="430000" />
+      <workItem from="1529507791132" duration="1360000" />
+      <workItem from="1529544150223" duration="10000" />
+      <workItem from="1530086048420" duration="132000" />
+      <workItem from="1530086184390" duration="4434000" />
+      <workItem from="1530091866266" duration="10983000" />
+      <workItem from="1530110449118" duration="13807000" />
+      <workItem from="1530185379770" duration="19144000" />
+      <workItem from="1530228239848" duration="715000" />
+      <workItem from="1530261523450" duration="9680000" />
+      <workItem from="1530277796305" duration="14872000" />
+      <workItem from="1530364037657" duration="9559000" />
+      <workItem from="1530456090872" duration="4468000" />
+      <workItem from="1530481595056" duration="929000" />
+      <workItem from="1530616400819" duration="8945000" />
+      <workItem from="1530729407486" duration="1297000" />
+      <workItem from="1530749021854" duration="2349000" />
+      <workItem from="1530810173821" duration="2135000" />
+      <workItem from="1530904118202" duration="2914000" />
+      <workItem from="1530961139087" duration="1299000" />
+      <workItem from="1530978591340" duration="1065000" />
+      <workItem from="1531043206171" duration="2514000" />
+      <workItem from="1531067628200" duration="7228000" />
+      <workItem from="1531078115096" duration="212000" />
+      <workItem from="1531088815752" duration="2427000" />
+      <workItem from="1531135455755" duration="2206000" />
+      <workItem from="1531156402804" duration="1707000" />
+      <workItem from="1531220618987" duration="8000" />
+      <workItem from="1531351685760" duration="221000" />
+      <workItem from="1531403590293" duration="3496000" />
+      <workItem from="1531566618415" duration="7463000" />
+      <workItem from="1531579588034" duration="10353000" />
+      <workItem from="1531596902328" duration="2020000" />
+      <workItem from="1531603478424" duration="17000" />
+      <workItem from="1531604396470" duration="1757000" />
+      <workItem from="1531606533233" duration="3562000" />
+      <workItem from="1531610947778" duration="18000" />
+      <workItem from="1531610978900" duration="999000" />
+      <workItem from="1531998688620" duration="281000" />
+      <workItem from="1532001615204" duration="669000" />
+      <workItem from="1533984027361" duration="1753000" />
+      <workItem from="1534413958295" duration="367000" />
+      <workItem from="1534416444787" duration="596000" />
+      <workItem from="1534423400835" duration="549000" />
+      <workItem from="1534509802069" duration="441000" />
+      <workItem from="1535369053719" duration="1594000" />
+      <workItem from="1536192972643" duration="8040000" />
+      <workItem from="1536317166197" duration="28272000" />
+      <workItem from="1536681695838" duration="1194000" />
+      <workItem from="1536790248153" duration="202000" />
+      <workItem from="1536925171921" duration="1180000" />
+      <workItem from="1536971298950" duration="4022000" />
+      <workItem from="1537003286237" duration="884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="337928000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="214" y="120" width="1466" height="884" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.0779661" visible="true" weight="0.15660113" />
+      <window_info id="Structure" order="1" sideWeight="0.9220339" side_tool="true" weight="0.22073841" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5976124" weight="0.3030303" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.79353935" weight="0.5290404" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4964721" weight="0.39929327" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20646067" side_tool="true" visible="true" weight="0.17550506" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49929774" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.42379957" weight="0.3203769" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" weight="0.3299435" />
+      <window_info anchor="bottom" id="Duplicates" order="13" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" sideWeight="0.49338844" weight="0.3150838" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.32935393" />
+      <window_info anchor="right" id="Module Dependencies" order="5" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bak/Main_back.java" />
+    <entry file="file://$PROJECT_DIR$/bak/Agent_bak.java" />
+    <entry file="file://$PROJECT_DIR$/resultsWD.csv" />
+    <entry file="file://$PROJECT_DIR$/metricTools.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/text/DateFormat.java" />
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/structures/EventSlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/structures/EventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/structures/DataStructures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dolTimetabling.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Calendar.java" />
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Verbose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Objects.java" />
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Miscellaneous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/TimeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results_bak/BinomialRegressionPositiveDueToSubmitVsFullness.R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/02-Bettenboerse-master-1f3e7d9272b311ebc07a09c0d5f53cb63ef3eec6.zip" />
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/CalendarViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-733">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/base/BaseParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Commons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Dates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/utilities/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="263" column="39" selection-start-line="263" selection-start-column="39" selection-end-line="263" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Timetables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="102" column="25" lean-forward="true" selection-start-line="102" selection-start-column="25" selection-end-line="102" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3719#3720#0" expanded="true" />
+            <element signature="e#3775#3776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/exporter/Metrics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/Agency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="168" column="104" selection-start-line="168" selection-start-column="75" selection-end-line="168" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edu/kit/dol/timetabling/model/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="394" column="2" selection-start-line="394" selection-start-column="2" selection-end-line="395" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dolTimetabling</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>viewer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

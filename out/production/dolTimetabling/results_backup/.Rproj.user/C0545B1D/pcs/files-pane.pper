@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitLab/dolTimetabling/results",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

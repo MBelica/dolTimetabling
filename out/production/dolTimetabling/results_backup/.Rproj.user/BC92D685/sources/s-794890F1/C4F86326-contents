@@ -1,0 +1,111 @@
+# Datei muss zwei mal hintereinander ausgeführt werden.
+library(rlang)
+
+# Definiere Funktion die für alle Ärzte und Praxen ausgeführt werden soll
+# einziger Input ist der dataset und return ist der Output
+lngth <- function(dataset) {
+  return ( length(dataset[,1]) );
+}
+
+# Gebe oben definierte Funktion an und wähle zwischen:
+# - print: Ausgabe in Console
+# - plot: Ausgabe in Plot
+# - export: Plotausgabe in gleichnamige PDF
+execFunctionForAllAgencies(lngth, "print");
+
+###############################################
+## Ab hier sollte nichts mehr geändert werden
+
+execFunctionForAllAgencies <- function(fct, mode) {
+  
+  if (mode == "export") {
+    pdf(paste0(substr(basename(rstudioapi::getSourceEditorContext()$path), 1, nchar(basename(rstudioapi::getSourceEditorContext()$path))-1),'pdf'))
+    paramMode <- "plot";
+  } else { paramMode <- mode; }
+  
+  data <- loadData('data');
+  # Variable global betrachtbar
+  assign("df", data, envir = .GlobalEnv)
+  
+  praxen <- c('B', 'IML','WD')
+  for (i in 1:(length(praxen) + 1)) {
+    
+    if ( i <= length(praxen)) {
+      agencyData <- data[as.character(data$Agency) ==  praxen[i],]
+      agencyText <- paste0("Praxis ",  praxen[i]);
+    } else {
+      agencyData <- data
+      agencyText <- "Alle Praxen zusammengelegt";
+    }
+    
+    # Anzahl an Aerzten in der Praxis
+    docs <- switch(i, 1, 4, 2, 0)
+    
+    for (j in 1:(docs + 1)) {
+      if ( i <= length(praxen)) {
+        if ( j <= docs) {
+          docData <- agencyData[as.numeric(agencyData$AgentTag) ==  j,]
+          docText <- paste0(" - bei Arzt ", j);
+        } else {
+          docData <- agencyData
+          docText <- " - alle Aerzte zusammengelegt";
+        }
+      } else { 
+        docData <- agencyData 
+        docText <- "";
+      }
+      
+      # Stammpatienten (patientType = 1), Nicht-Stammpatienten (patientType = 0), ansonsten alle
+      patientType <- c(0, 1)
+      
+      for (k in 1:(length(patientType) + 1)) {
+        if ( k <= length(patientType)) {
+          finalData <- docData[as.numeric(docData$Stammpatient) == patientType[k],]
+          if (k == 1) {
+            typeText <- " - fuer Nicht-Stammpatienten";
+          } else {  typeText <- " - fuer Stammpatienten"; }
+        } else {
+          finalData <- docData;
+          typeText <- " - fuer alle Patienten"; 
+        }
+        
+        if ((!is_empty(finalData)) && (length(finalData[, 1]) > 0)) {
+          print_output(paramMode, paste0(agencyText, docText, typeText), fct(finalData))
+        }
+      }
+    }
+  }
+  if (mode == "export") {dev.off() }
+}
+
+print_output <- function(mode, header, output, cex = 0.75) {
+  if (mode == "plot") {
+    tmp <- capture.output(output) 
+    plot.new()
+    title(header, cex.main = 1.25 * cex, line = 0.5)
+    text(0, 1, paste0(tmp, collapse='\n'), adj = c(0,1), family = 'mono', cex = cex)
+    box()
+  } else  {
+    print(header)
+    print(output)
+  } 
+}
+
+loadData <- function(filename) {
+  workingDirectory <- dirname(rstudioapi::getSourceEditorContext()$path)
+  data <- read.csv2(paste0(workingDirectory, '/',filename,'.csv'), sep = ";", quote = "\"'", dec = ",")
+  
+  sapply(data, class)
+  
+  return(data);
+}
+
+# data$X, data$AgentTag, data$EventSubmitDay, data$EventDay
+# data$EventTimestamp, data$TimeSlotAsInt, data$TimeSlotAsString
+# data$PatientID, data$PatientAge, data$IndirectWaitingPeriod
+# data$Metrik1, data$Metrik2, data$freeSlots
+# data$shortSlots, data$bookedSlots, data$CountOfCurrentAppointments
+# data$msToNextDDateFromPrevDDate, data$msToNextSDateFromPrevDDate, data$numberOfSlots
+# data$slotsToNextPossibleEventDate, data$minsToNextPossibleEventDate, data$Attended, 
+# data$Stammpatient, data$WalkIn, data$CountOfDailyAppointmentsPerAgency, 
+# data$SumOfFutureAppointmentsPerAgency, data$CountOfDailyAppointmentsPerAgent, data$SumOfFutureAppointmentsPerAgent

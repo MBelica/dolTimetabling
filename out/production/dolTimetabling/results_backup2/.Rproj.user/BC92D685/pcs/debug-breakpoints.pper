@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 25,
+                "editor_state" : 2,
+                "function_name" : "dailyAppointmentsVsFuture",
+                "function_steps" : "",
+                "id" : 0,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 25,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "~/Documents/Gitlab/dolTimetabling/results/BinomalRegressionsAttendedVsMetrics.R",
+                "state" : 2,
+                "type" : 0
+            }
+        ]
+    }
+}

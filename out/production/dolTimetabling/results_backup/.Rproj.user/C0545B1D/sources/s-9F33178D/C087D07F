@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536451391998.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2456791126",
+    "id" : "C087D07F",
+    "lastKnownWriteTime" : 1536492981,
+    "last_content_update" : 1536492981853,
+    "path" : "~/GitLab/dolTimetabling/results/DistributionOfNextPossibleAppointment.R",
+    "project_path" : "DistributionOfNextPossibleAppointment.R",
+    "properties" : {
+        "cursorPosition" : "37,114",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
